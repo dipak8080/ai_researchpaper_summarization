@@ -10,7 +10,7 @@ During research fellowship, Everyone learn how to read papers rapidly and effici
 Clone the repository
 
 ```bash
-https://github.com/Rijan25/Research-Paper-Summarization-Using-GenAI
+
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
