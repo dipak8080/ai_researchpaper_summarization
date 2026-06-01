@@ -10,7 +10,7 @@ During research fellowship, Everyone learn how to read papers rapidly and effici
 Clone the repository
 
 ```bash
-
+https://github.com/dipak8080/ai_researchpaper_summarization.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
