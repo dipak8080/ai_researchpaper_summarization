@@ -6,6 +6,7 @@ from langchain.document_loaders import PyPDFLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
 
+#load_env
 load_dotenv()
 openai.api_key = os.getenv("OpenAI_API_KEY")  
 

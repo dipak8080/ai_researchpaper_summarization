@@ -15,7 +15,7 @@ def main():
                                    step=10, value=2000)
     
     
-
+#prompt
     user_prompt = st.text_input("Enter the custom summary prompt")
 
     config = read_yaml(CONFIG_FILE_PATH)

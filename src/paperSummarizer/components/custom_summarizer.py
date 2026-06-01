@@ -5,6 +5,7 @@ from langchain import PromptTemplate
 from langchain.chains.summarize import load_summarize_chain
 from paperSummarizer import logger
 
+#load_env
 load_dotenv()
 openai.api_key = os.getenv("OpenAI_API_KEY")  
 

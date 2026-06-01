@@ -6,3 +6,5 @@ pypdf
 gradio
 streamlit
 -e .
+
+# updated: 2026-06-01
